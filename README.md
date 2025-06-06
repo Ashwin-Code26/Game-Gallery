@@ -1,2 +1,2 @@
 # Game-Gallery
-Simple Game Gallery using HTML &amp; CSS
+Simple Game Gallery Using HTML &amp; CSS
